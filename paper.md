@@ -36,3 +36,23 @@ While large-scale intrusion detection systems are resource-intensive, there's a 
 python tools/log_ip_sniffer.py
 python tools/scapy_realtime_monitor.py
 python tools/detect_portscan.py
+
+
+
+Example
+See sample_logs/test_log.log for how the portscan detection flags repeated suspicious connections.
+
+Acknowledgements
+This work was created as part of a cybersecurity research submission in support of PTDF scholarship goals.
+
+References
+Nmap.org (Port scanning principles)
+
+Scapy documentation
+
+MITRE ATT&CK Framework – Initial Access
+
+markdown
+Copy
+Edit
+
